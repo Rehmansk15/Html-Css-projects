@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <title>
+        "My website"
+    </title>
+   <style>
+body {
+  background-color : #B6A1E7;
+}
+     h1{
+       background-color : #CEFF33;
+       color : #33A2FF;
+     }
+     h2{
+       background-color : #A1E7C7;
+       font-size : 75px;
+       color: red;
+     }
+     h6{
+       background-color : white;
+       font-size : 55px;
+       text-align: center;
+       color : rebeccapurple
+     }
+     h1,h2{
+       text-align : center;
+     }
+     h3,h4{
+       background-color : #A1E7C7;
+       font-family : courier;
+     }
+</style>
+    <body>
+        <h1>My Personal Website</h1>
+        <h2 style="font-size: 75px;">S K REHMAN </h2>
+        <h3>CSE</h3>
+        <h4>MIEAT</h4>
+      <p>On tis <b>website</b> you are going to know the basic details of<i> myself</i>.<strong> My name is <b><em>S K REHMAN</em</b> and I'm studying 3rd year at Mother Theresa College of Engineering. My Department of specialization is CSE</strong></p><br>
+        <p>I have a <sub>lot to say about me</sub>, If I say this <sup>web content</sup> might cross its word limit<br></p>
+        <h6>About me:</h6>
+      <q>text-align="center" Just be yourself. Unless you’re a psychopath.</q>
+        <p><strong>I'm really happy to study this B Tech course in this prestigious institution</strong></p>
+        <p><i>This is a website about</i></p>
+        <address>Mtiet,Palamaner</address>
+        <!--Note to Juniors : Prefer this college for your bright future--> 
+        <img src="C:\Users\rehma\Downloads\rehman (2).jpg" alt="Handsome me" style="width:400px;height:400px;">
+        <img src="https://www.targetadmission.com/img/colleges/optimized/600/IMG-1-4066143.jpg" alt="My college" style="width:500px;height:400px;">
+        <p>Thats all about me contact details of me:</p>
+        <p>Phone : 7780749312<br>mail : rehmanrockz21@gmail.com<br></p>
+         <script>let a=10;let b=5;
+         console.log(a+b);
+         console.log(a-b);
+         console.log(a*b);
+         console.log(a/b);
+         </script>
+            </body>
+</html>
